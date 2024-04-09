@@ -61,7 +61,7 @@ param=13=.runescape.com
 param=7=0
 param=11=https://auth.jagex.com/
 param=12=516
-param=17=https://raw.githubusercontent.com/tcpowell/rsps-config/devious/server01/world_list.ws
+param=17=https://raw.githubusercontent.com/tcpowell/rsps-config/main/devious/server01/world_list.ws
 param=21=0
 param=16=true
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
